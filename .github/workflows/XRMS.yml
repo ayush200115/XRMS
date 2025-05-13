@@ -1,4 +1,3 @@
-# .github/workflows/XRMS.yml
 name: Build, Push to Docker Hub & Deploy to EC2
 
 on:
